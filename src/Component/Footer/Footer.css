@@ -1,0 +1,22 @@
+.footer{
+    width: 100%;
+    width: 1024px;
+    font-size: 12px;
+}
+.footerlist{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.flist{
+   list-style: none;
+   padding: 0;
+}
+.flista{
+    margin-bottom: 10px;
+    color: #003580;
+    cursor: pointer;
+    list-style: none;
+
+}
